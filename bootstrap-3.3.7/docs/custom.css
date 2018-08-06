@@ -1,0 +1,32 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color:  #1A535C;
+}
+  
+.navbar-inverse {
+    background-color: #1A535C;
+    border-color: #1A535C;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #4ECDC4;
+  border-color: #4ECDC4;
+}
+
+.btn-success:hover {
+  color: #fff;
+  background-color: #FF6B6B;
+  border-color: #FF6B6B;
+}
+
+
+.navbar-inverse .navbar-brand {
+  color: #F7FFF7;
+}
+
+.jumbotron {
+  background-color: #F7FFF7;
+}
